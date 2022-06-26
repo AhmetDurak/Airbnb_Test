@@ -1,8 +1,6 @@
 package com.StepDefinitions;
 
 import com.Pages.airbnbFunctionalities;
-import com.Utilities.BrowserUtilities;
-import com.Utilities.ConfigurationReader;
 import com.Utilities.Driver;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
